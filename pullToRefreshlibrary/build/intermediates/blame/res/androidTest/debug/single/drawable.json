@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\android_studio\\project\\DianXiao2\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "F:\\android_studio\\project\\DianXiao2\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "F:\\android_studio\\project\\DianXiao2\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "F:\\android_studio\\project\\DianXiao2\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RecycleViewDemo\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RecycleViewDemo\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RecycleViewDemo\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RecycleViewDemo\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_bottom.xml"
+    }
+]

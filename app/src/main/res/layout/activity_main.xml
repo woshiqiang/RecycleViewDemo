@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#666666"
+    tools:context="com.sanmiao.recycleviewdemo.MainActivity">
+
+    <com.handmark.pulltorefresh.library.PullToRefreshRecyclerView
+        android:background="#fff"
+        android:fillViewport="true"
+        android:id="@+id/id_recyclerview_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerVertical="true"
+        android:scrollbars="none" />
+
+
+
+</RelativeLayout>
